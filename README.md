@@ -13,7 +13,7 @@ I am a dedicated Senior Quality Control Engineer with a strong foundation in sof
 
 ## 🛠️ Technologies & Tools
 
-![Tools](https://skillicons.dev/icons?i=postman,cypress,selenium,java,maven,js,ts,python,html,css,git,github,jira,vscode,jenkins,kubernetes,grafana,docker,kafka,androidstudio,visualstudio,vim,ubuntu,linux,stackoverflow)
+![Tools](https://skillicons.dev/icons?i=postman,cypress,selenium,java,maven,js,ts,python,html,css,git,github,vscode,jenkins,kubernetes,grafana,docker,kafka,androidstudio,visualstudio,vim,ubuntu,linux,stackoverflow)
 
 ---
 
