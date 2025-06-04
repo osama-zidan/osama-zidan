@@ -29,7 +29,6 @@ I am a dedicated Senior Quality Control Engineer with a strong foundation in sof
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/osama-sayed-12b84a156/)
-- [GitHub](https://github.com/Osama-Sayed)
 - [Facebook](https://www.facebook.com/OsamaSaYed1999)
 - [Twitter](https://twitter.com/Osama_SaYed_)
 
