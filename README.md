@@ -18,8 +18,6 @@ I am a dedicated Senior Quality Control Engineer with a strong foundation in sof
 ---
 
 ## 📈 GitHub Stats
-
-![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osama-sayed&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osama-zidan&theme=default)
 ![Osama's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=osama-zidan&theme=github-compact)
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osama-zidan&layout=compact&theme=radical)-->
